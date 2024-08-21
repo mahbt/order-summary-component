@@ -24,8 +24,6 @@ Users should be able to:
 
 ![](./screenshots/screenshot-desktop.png)
 
-A
-
 ### Links
 
 - Live Site URL: [Order Summary Component](https://mahbt.github.io/order-summary-component/)
